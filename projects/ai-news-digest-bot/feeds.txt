@@ -1,0 +1,5 @@
+https://hnrss.org/newest
+https://feeds.feedburner.com/TheHackersNews
+https://www.schneier.com/feed/atom
+https://venturebeat.com/category/ai/feed/
+https://thehackernews.com/feed
